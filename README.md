@@ -2,9 +2,6 @@
 **1. Introduction**  
 This report presents an in-depth analysis of Supermart’s sales performance using a dashboard visualization. The analysis aims to uncover insights into product performance, customer behavior, gross income, payment methods, city and branch-level trends, and overall revenue distribution. The data spans the first quarter of 2019 (January to March), giving a snapshot of the retail operations during that period.  
 
-"C:\Users\HP\Downloads\Screenshot 2025-04-10 085055.jpg"  
-
-
 **2. Key Performance Indicators (KPIs)**  
 Average Rating by Date: 6.80  
 Total Sales: $322.97K  
